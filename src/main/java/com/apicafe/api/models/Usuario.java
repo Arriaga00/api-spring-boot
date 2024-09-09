@@ -15,15 +15,19 @@ public class Usuario {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private int id;
-    @Column(name = "user")
-    private String user;
+    @Column(name = "username")
+    private String username;
+    @Column(name = "password")
+    private String password;
 
     public Usuario() {
         super();
     }
 
-    public Usuario(String user) {
-        this.user = user;
+    public Usuario(int id, String username, String password) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
     }
 
     public int getId() {
@@ -34,11 +38,20 @@ public class Usuario {
         this.id = id;
     }
 
-    public String getUser() {
-        return user;
+    public String getUsername() {
+        return username;
     }
 
-    public void setUser(String user) {
-        this.user = user;
+    public void setUsername(String username) {
+        this.username = username;
     }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
 }

@@ -6,11 +6,14 @@ import java.util.List;
 import java.util.Optional;
 
 public interface UsuarioService {
+     public String sessionLogin(String username, String password);
 
-     public Optional<Usuario>findById(Integer id);
-     public List<Usuario>findAll();
+     public Optional<Usuario> findById(Integer id);
+
+     public List<Usuario> findAll();
+
      public Usuario save(Usuario u);
-     public void deletById(Integer id);
 
+     public void deletById(Integer id);
 
 }

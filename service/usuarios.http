@@ -1,0 +1,36 @@
+###
+GET http://localhost:8080/api/user/1
+
+###
+GET http://localhost:8080/api/user/listUser
+
+###
+POST http://localhost:8080/api/user/saveUser
+Content-Type: application/json
+
+{
+  "username": "admin3",
+  "password": "admin2"
+}
+
+###
+POST http://localhost:8080/api/user/validate
+Content-Type: application/json
+
+{
+  "username": "admin2",
+  "password": "admin2"
+}
+
+###
+PUT http://localhost:8080/api/user/update/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "username": "adminUsuarios",
+  "password": "Arriaga"
+}
+
+###
+DELETE http://localhost:8080/api/user/deleteUser/1
