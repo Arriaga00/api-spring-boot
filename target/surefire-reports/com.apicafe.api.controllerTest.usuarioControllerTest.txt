@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.apicafe.api.controllerTest.usuarioControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.814 s -- in com.apicafe.api.controllerTest.usuarioControllerTest

@@ -1,0 +1,13 @@
+com/apicafe/api/models/Usuario.class
+com/apicafe/api/ApiApplication.class
+com/apicafe/api/controller/UsuarioController.class
+com/apicafe/api/service/UsuarioServiceImpl.class
+com/apicafe/api/service/ProductsServiceImpl.class
+com/apicafe/api/service/ProductsService.class
+com/apicafe/api/CorsConfig.class
+com/apicafe/api/CorsConfig$1.class
+com/apicafe/api/repository/UsuarioRepository.class
+com/apicafe/api/service/UsuarioService.class
+com/apicafe/api/models/Products.class
+com/apicafe/api/repository/ProductsRepository.class
+com/apicafe/api/controller/ProductsController.class

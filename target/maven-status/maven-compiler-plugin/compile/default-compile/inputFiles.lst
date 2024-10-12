@@ -1,0 +1,12 @@
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/ApiApplication.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/CorsConfig.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/controller/ProductsController.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/controller/UsuarioController.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/models/Products.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/models/Usuario.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/repository/ProductsRepository.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/repository/UsuarioRepository.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/service/ProductsService.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/service/ProductsServiceImpl.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/service/UsuarioService.java
+/Users/yirleycordoba/Documents/Andres/api-spring-boot/src/main/java/com/apicafe/api/service/UsuarioServiceImpl.java
